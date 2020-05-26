@@ -1,0 +1,22 @@
+Model saved as: save/DDPGMomentum1.h5 
+Order 419389.0 : Sell Order 0 is filled with quantity 2 of price 187.015625
+ZTH0:MBO : 0
+UBH0:MBO : 53
+ZBH0:MBO : 45
+ [X] Cash : 1000374.03125
+ [X] Inventory Value : 17021.3125
+ [X] Portfolio Value : 1017395.34375
+Order 419389.0 : Sell Order 0 is filled with quantity 1 of price 187.015625
+ZTH0:MBO : 0
+UBH0:MBO : 52
+ZBH0:MBO : 45
+ [X] Cash : 1000561.046875
+ [X] Inventory Value : 16834.2734375
+ [X] Portfolio Value : 1017395.3203125
+Order 419389.0 : Sell Order 0 is filled with quantity 34 of price 187.015625
+ZTH0:MBO : 0
+UBH0:MBO : 18
+ZBH0:MBO : 45
+ [X] Cash : 1006919.578125
+ [X] Inventory Value : 10474.9453125
+ [X] Portfolio Value : 1017394.5234375
